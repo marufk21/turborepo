@@ -1,0 +1,6 @@
+- Create a dedicated library UI folder (minimal setup).
+- Install Tailwind CSS and shadcn.
+- Integrate the following steps:
+  - Remove unused packages.
+  - Set up TanStack Router in the app.
+  - Set up React Router in the app.
